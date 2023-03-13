@@ -20,7 +20,7 @@ Tensorflow 2
 2. Run data_prepare.py
 ```
 ```
-3. Run model_fbae.py
+3. Run model_bgae.py
 ```
 # Citation
 
