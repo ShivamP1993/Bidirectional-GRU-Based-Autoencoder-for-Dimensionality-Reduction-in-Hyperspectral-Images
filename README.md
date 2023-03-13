@@ -20,6 +20,7 @@ Tensorflow 2
 ```
 3. Run model_fbae.py
 ```
+# Citation
 
 If using the concept or code, kindly cite the paper as: 
 >S. Pande, B. Banerjee. Bidirectional GRU based autoencoder for dimensionality reduction in hyperspectral images. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July, 2021.
